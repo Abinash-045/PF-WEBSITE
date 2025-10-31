@@ -2,7 +2,7 @@
 
 A modern, animated, fully responsive developer portfolio built with Next.js 13 App Router, Tailwind CSS, Framer Motion, and shadcn/ui. It showcases profile, skills, projects, education, achievements, and an email-powered contact form.
 
-- **Live**: add-your-deployed-url
+- **Live**: https://abinash-protfolio.vercel.app
 - **Author**: Abinash Behera
 - **Email**: beheraabinash656@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/abinash-behera-639694346/
