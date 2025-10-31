@@ -72,7 +72,7 @@ export const profile: Profile = {
   openGraph: {
     title: 'Abinash Behera - Full Stack Developer',
     description: 'Full Stack Developer specializing in AWS cloud and MERN Stack',
-    url: '',
+    url: 'abinash-protfolio.vercel.app',
     siteName: 'Abinash Behera Portfolio',
   },
   keywords: [
@@ -92,6 +92,6 @@ export const contactItems: ContactItem[] = [
 export const socialLinks: SocialLink[] = [
   { label: 'GitHub', href: 'https://github.com/Abinash-045' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/abinash-behera-639694346/' },
-  { label: 'Portfolio', href: '' },
+  { label: 'Portfolio', href: 'abinash-protfolio.vercel.app' },
 ];
 
